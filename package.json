@@ -1,0 +1,14 @@
+{
+  "name": "backendprojet7levieuxgrimoire",
+  "version": "1.0.0",
+  "description": "backend p7 openclassrooms",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
